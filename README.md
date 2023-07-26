@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
-<h3 align="center">A passionate web developer currently located in Canada</h3>
+<h3 align="center">A passionate web developer and Data Scientist/Analyst currently located in Canada</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jbeswfjee83yn2rtbxzdyddvksva65o9e7oan787&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asingh882&label=Profile%20views&color=0e75b6&style=flat" alt="asingh882" /> </p>
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **Feirry Grills**
 
 - 👨‍💻 All of my projects are available at [https://lunavalley.ca](https://lunavalley.ca)
+
+- ⚡Proficient in **Python, Java, SQL, JavaScript**
 
 - 💬 Ask me about **react, vue and Django**
 
