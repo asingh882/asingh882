@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asingh882&label=Profile%20views&color=0e75b6&style=flat" alt="asingh882" /> </p>
 
-- 🔭 I’m currently working on **Feirry Grills**
+- 🔭 I’m currently polishing and learning new skills in **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://lunavalley.ca](https://lunavalley.ca)
+- 👨‍💻 All of my projects are available at [[Portfolio](https://asingh882.github.io/Amritpal.github.io/)]
 
-- ⚡Proficient in **Python, Java, SQL, JavaScript**
+- ⚡Proficient in **Python, Java, SQL, JavaScript, Tableau, SQL, Excel, Java, C++**
 
-- 💬 Ask me about **react, vue and Django**
+- 💬 Ask me about **React, Django, Pandas, Tensorflow, Numpy, SciPy, Scikit Learn, Seaborn, Matplotlib**
 
 - 📫 How to reach me **pal121640@gmail.com**
 
